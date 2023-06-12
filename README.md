@@ -11,10 +11,10 @@ The ArtGallery iOS app is an application developed using Swift, Storyboard, and 
 
 ## Screenshots
 
-![App Screenshots](/ArtGallery/Assets.xcassets/ss2.imageset/ss4.png)
-![App Screenshots](/ArtGallery/Assets.xcassets/ss2.imageset/ss2.png)
-![App Screenshots](/ArtGallery/Assets.xcassets/ss.imageset/ss1.png)
-![App Screenshots](/ArtGallery/Assets.xcassets/ss2.imageset/ss3.png)
+![App Screenshots](/ArtGallery/Assets.xcassets/ss2.imageset/ss4.imageset)
+![App Screenshots](/ArtGallery/Assets.xcassets/ss2.imageset/ss2.imageset)
+![App Screenshots](/ArtGallery/Assets.xcassets/ss.imageset/ss1.imageset)
+![App Screenshots](/ArtGallery/Assets.xcassets/ss2.imageset/ss3.imageset)
 
 ## Prerequisites
 
